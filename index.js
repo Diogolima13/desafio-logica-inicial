@@ -1,2 +1,2 @@
 console.log('oi')
-console.log('bom dia')
+console.log('bom')
